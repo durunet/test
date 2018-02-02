@@ -8,15 +8,13 @@
     <title>Document</title>
 </head>
 <body>
+ahmet
+hasan
 deneme
     deneme2
 1231231231231231
-123
-123
-123
-123
-123
-3333
 
+huseyin
+denedim
 </body>
 </html>
